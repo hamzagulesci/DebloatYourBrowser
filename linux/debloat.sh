@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
 # ╔══════════════════════════════════════════════════════════════╗
 # ║   Browser Debloat & Performance Optimizer                    ║
-# ║   Linux Universal v3.0                                       ║
+# ║   Linux Universal v1.0                                       ║
 # ║                                                              ║
 # ║   Desteklenen tarayicilar:                                   ║
 # ║     ● Brave Browser                                          ║
 # ║     ● Google Chrome                                          ║
 # ║                                                              ║
 # ║   Desteklenen kurulum tipleri:                               ║
-# ║     native  apt/deb  Ubuntu, Debian, Zorin, Mint, Pop!OS    ║
-# ║     native  rpm/dnf  Fedora, RHEL, openSUSE, Rocky          ║
+# ║     native  apt/deb  Ubuntu, Debian, Zorin, Mint, Pop!OS     ║
+# ║     native  rpm/dnf  Fedora, RHEL, openSUSE, Rocky           ║
 # ║     native  pacman   Arch, Manjaro, EndeavourOS, Garuda      ║
 # ║     flatpak          Tum distrolarda (policy sinirli)        ║
 # ║     snap             Ubuntu ve turevleri                     ║
